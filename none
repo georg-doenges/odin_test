@@ -1,0 +1,17 @@
+[33mcommit 02cc917dd69b3725af56051b69b0d87d94b22d6c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: georg-doenges <125189389+georg-doenges@users.noreply.github.com>
+Date:   Sun Dec 31 16:57:46 2023 +0100
+
+    Edit of README.md and of hello_world.txt
+
+[33mcommit 5341d7b2aba500dcb52b9656a595ec6df4834763[m
+Author: georg-doenges <125189389+georg-doenges@users.noreply.github.com>
+Date:   Sun Dec 31 16:47:02 2023 +0100
+
+    hello.world.txt
+
+[33mcommit 8b603b9a8ba21ffcf5a2453f129259337dda2f04[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: georg-doenges <125189389+georg-doenges@users.noreply.github.com>
+Date:   Sun Dec 31 16:27:08 2023 +0100
+
+    Initial commit
